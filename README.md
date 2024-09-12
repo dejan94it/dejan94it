@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Giuseppe Dejan Lucido, Experienced Data Scientist
 - 👀 I’m interested in Data Science, R Programming and Development, Shiny Apps, Machine & Deep Learning
-- 🌱 I’m currently learning Dev-Ops and other modelling techniques
+- 🌱 I’m currently learning Dev-Ops and other stat/ML/DL modelling techniques
 - 🌍 My website: www.giuseppedejanlucido.it 
 
 <!---
