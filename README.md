@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Giuseppe Dejan Lucido, Experienced Data Scientist
-- 👀 I’m interested in Data Science, R Programming and Development, Shiny Apps, Machine & Deep Learning
-- 🌱 I’m currently learning Dev-Ops and other stat/ML/DL modelling techniques
-- 🌍 My website: www.giuseppedejanlucido.it 
+- 👋 I’m Giuseppe Experienced Data Scientist and developer
+- 👀 I’m interested in Data Science, Machine & Deep Learning, R/Python Programming and Software Engineering
+- 💻 Working in Startups
+- 🌍 giuseppedejanlucido.it 
 
 <!---
 dejan94it/dejan94it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
