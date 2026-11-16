@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3a3f,100:3fb8af&height=180&section=header&text=Giuseppe%20Dejan%20Lucido&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=AI%20Solution%20Architect%20%C2%B7%20Software%20Engineer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3a3f,100:3fb8af&height=180&section=header&text=Giuseppe%20Dejan%20Lucido&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=AI%20Solution%20Architect%20%C2%B7%20Data%20Scientist&descAlignY=55&descSize=18" width="100%" />
 
 <p align="center">
   <a href="https://giuseppedejanlucido.it">
@@ -34,13 +34,5 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dejan94it&theme=transparent&hide_border=true&ring=3fb8af&fire=3fb8af&currStreakLabel=3fb8af&currStreakNum=3fb8af&sideNums=3fb8af&sideLabels=3fb8af" />
 </p>
-
-### 🐍 Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dejan94it/dejan94it/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dejan94it/dejan94it/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/dejan94it/dejan94it/output/github-snake.svg" />
-</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb8af,100:0f3a3f&height=100&section=footer" width="100%" />
